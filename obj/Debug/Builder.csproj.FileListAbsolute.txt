@@ -1,0 +1,7 @@
+C:\Users\Raul.tuyin\source\repos\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\Raul.tuyin\source\repos\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\Raul.tuyin\source\repos\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\Raul.tuyin\source\repos\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\Raul.tuyin\source\repos\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Raul.tuyin\source\repos\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\Raul.tuyin\source\repos\Builder\Builder\obj\Debug\Builder.pdb
